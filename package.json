@@ -174,7 +174,7 @@
     "i18next": "^20.3.5",
     "i18next-browser-languagedetector": "^6.1.2",
     "i18next-http-backend": "^1.2.8",
-    "jszip": "^3.7.1",
+    "jszip": "^3.8.0",
     "leaflet": "^1.7.1",
     "marked": "^4.0.12",
     "material-design-icons": "^3.0.1",
